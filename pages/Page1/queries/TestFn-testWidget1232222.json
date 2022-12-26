@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "testWidget",
-    "fullyQualifiedName": "TestFn.testWidget",
+    "name": "testWidget1232222",
+    "fullyQualifiedName": "TestFn.testWidget1232222",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_TestFn.testWidget",
+  "id": "Page1_TestFn.testWidget1232222",
   "deleted": false,
   "gitSyncId": "63983e2d038c74195c0aaafa_63a93a78647efb486b770232"
 }

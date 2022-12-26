@@ -618,7 +618,7 @@
               "resetFormOnClick": false,
               "boxShadow": "none",
               "widgetName": "Button4",
-              "onClick": "{{TestFn.testWidget()}}",
+              "onClick": "{{TestFn.testWidget1232222()}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
