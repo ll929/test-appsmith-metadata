@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "TestFn",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\ttestWidget: () => {\n\t\t//write code here\n\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_TestFn",
+  "deleted": false,
+  "gitSyncId": "63983e2d038c74195c0aaafa_63a93a78647efb486b770236"
+}
